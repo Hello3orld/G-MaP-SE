@@ -1,0 +1,16 @@
+torch
+numpy
+librosa
+scipy
+tensorboard
+SoundFile
+einops
+joblib
+natsort
+pesq
+tqdm
+onnxruntime
+torchaudio
+torchcodec
+matplotlib
+rich
